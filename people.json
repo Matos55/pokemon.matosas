@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Joao",
+    "avatar": "bakemyduy",
+    "image": "pics/bakemyduy.jpg"
+  },
+  {
+    "name": "Luis",
+    "avatar": "Outkast",
+    "image": "pics/outkast.jpg"
+  },
+  {
+    "name": "Emma Johnson",
+    "avatar": "emmaj",
+    "image": "pics/emmaj.jpg"
+  },
+  {
+    "name": "Nora Wilson",
+    "avatar": "nora_w",
+    "image": "pics/nora_w.jpg"
+  },
+  {
+    "name": "Diana Amber",
+    "avatar": "diana_a",
+    "image": "pics/diana_a.jpg"
+  },
+  {
+    "name": "Addison Thomas",
+    "avatar": "addison",
+    "image": "pics/addison.jpg"
+  }
+]

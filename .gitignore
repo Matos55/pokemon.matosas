@@ -1,0 +1,9 @@
+﻿# Ignore images you may not want committed
+/pics/*.tmp
+# OS files
+.DS_Store
+Thumbs.db
+# Node / common
+node_modules/
+npm-debug.log
+yarn-error.log
