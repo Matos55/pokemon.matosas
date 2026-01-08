@@ -1,62 +1,87 @@
 [
   {
+    "name": "Ana Gatarina",
+    "avatar": "EeveeMoonPt",
+    "image": "pics/eeveemoonpt.png"
+  },
+  {
+    "name": "Andre",
+    "avatar": "AzMagnifico",
+    "image": "pics/azmagnifico.png"
+  },
+  {
     "name": "Joao",
-    "avatar": "bakemyduy",
+    "avatar": "Bakemyduy",
     "image": "pics/bakemyduy.jpg"
   },
   {
     "name": "Luis",
-    "avatar": "Outkast",
-    "image": "pics/outkast.jpg"
+    "avatar": "Outk4s7",
+    "image": "pics/outk4s7.jpg"
   },
   {
-    "name": "Emma Johnson",
-    "avatar": "emmaj",
-    "image": "pics/emmaj.jpg"
+    "name": "Zé",
+    "avatar": "R3n3gad3ZP",
+    "image": "pics/r3n3gad3zp.png"
   },
   {
-    "name": "Nora Wilson",
-    "avatar": "nora_w",
+    "name": "Outronck",
+    "avatar": "Outronck",
+    "image": "pics/outronk.png"
+  },
+  {
+    "name": "xXFujyamaXx",
+    "avatar": "xXFujyamaXx",
+    "image": "pics/xxfujyamaxx.png"
+  },
+  {
+    "name": "Daniel",
+    "avatar": "LVyDanyL",
+    "image": "pics/lvydanyl.png"
+  },
+  {
+    "name": "Cebas",
+    "avatar": "Zebiano",
     "image": "pics/nora_w.jpg"
   },
   {
-    "name": "Diana Amber",
-    "avatar": "diana_a",
+    "name": "Cebas friend",
+    "avatar": "MystiqueSab",
     "image": "pics/diana_a.jpg"
   },
   {
-    "name": "Addison Thomas",
-    "avatar": "addison",
+    "name": "Daddy Cool",
+    "avatar": "AshGPSDad",
     "image": "pics/addison.jpg"
   },
-    {
-    "name": "Addison Thomas",
-    "avatar": "addison",
+  {
+    "name": "Taco Lover",
+    "avatar": "tac2000",
     "image": "pics/addison.jpg"
   },
-    {
-    "name": "Addison Thomas",
-    "avatar": "addison",
+  {
+    "name": "Tiago",
+    "avatar": "justTiago",
+    "image": "pics/justtiago.png"
+  },
+  {
+    "name": "Ricardo",
+    "avatar": "RickPrime24",
+    "image": "pics/rickyprime24.png"
+  },
+  {
+    "name": "Luis",
+    "avatar": "PimpzMisterio",
+    "image": "pics/pimpzmisterio.png"
+  },
+  {
+    "name": "SouOBadolas",
+    "avatar": "SouOBadolas",
     "image": "pics/addison.jpg"
   },
-    {
-    "name": "Addison Thomas",
-    "avatar": "addison",
-    "image": "pics/addison.jpg"
-  },
-    {
-    "name": "Addison Thomas",
-    "avatar": "addison",
-    "image": "pics/addison.jpg"
-  },
-    {
-    "name": "Addison Thomas",
-    "avatar": "addison",
-    "image": "pics/addison.jpg"
-  },
-    {
-    "name": "Addison Thomas",
-    "avatar": "addison",
-    "image": "pics/addison.jpg"
+  {
+    "name": "Carlos",
+    "avatar": "1Quebra1",
+    "image": "pics/1quebra1.png"
   }
 ]
