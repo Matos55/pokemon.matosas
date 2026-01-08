@@ -29,7 +29,7 @@ function render(list) {
     if (!list.length) {
         const empty = document.createElement('div');
         empty.className = 'empty';
-        empty.textContent = 'No results — try another term.';
+        empty.innerHTML = '<span class="empty-full">No results — try another term.</span>';
         resultsEl.appendChild(empty);
         return;
     }
