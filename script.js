@@ -59,3 +59,15 @@ fetch('people.json')
     });
 
 searchEl.addEventListener('input', ev => doSearch(ev.target.value));
+
+// Keep body padding equal to header height so fixed header doesn't obscure content
+function updateBodyPaddingForTopbar() {
+    const topbar = document.querySelector('.topbar');
+    if (!topbar) return;
+    document.body.style.paddingTop = topbar.offsetHeight + 'px';
+}
+
+window.addEventListener('load', updateBodyPaddingForTopbar);
+window.addEventListener('resize', updateBodyPaddingForTopbar);
+// if layout changes dynamically (fonts/images), update after a short delay
+setTimeout(updateBodyPaddingForTopbar, 100);
