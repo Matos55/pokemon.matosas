@@ -1,6 +1,6 @@
 [
   {
-    "name": "Ana Gatarina",
+    "name": "Ana",
     "avatar": "EeveeMoonPt",
     "image": "pics/eeveemoonpt.png"
   },
@@ -20,12 +20,12 @@
     "image": "pics/outk4s7.jpg"
   },
   {
-    "name": "Zé",
+    "name": "Ze",
     "avatar": "R3n3gad3ZP",
     "image": "pics/r3n3gad3zp.png"
   },
   {
-    "name": "Outronck",
+    "name": "Vitor",
     "avatar": "Outronck",
     "image": "pics/outronk.png"
   },
@@ -50,14 +50,14 @@
     "image": "pics/diana_a.jpg"
   },
   {
-    "name": "Daddy Cool",
+    "name": "Emanuel",
     "avatar": "AshGPSDad",
     "image": "pics/addison.jpg"
   },
   {
     "name": "Taco Lover",
     "avatar": "tac2000",
-    "image": "pics/addison.jpg"
+    "image": "pics/tac.png"
   },
   {
     "name": "Tiago",
@@ -83,5 +83,10 @@
     "name": "Carlos",
     "avatar": "1Quebra1",
     "image": "pics/1quebra1.png"
+  },
+  {
+    "name": "Kikonastico",
+    "avatar": "Kikonastico",
+    "image": "pics/kikonastico.png"
   }
 ]
